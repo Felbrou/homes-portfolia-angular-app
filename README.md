@@ -16,7 +16,7 @@ I've created an Angular app that lists houses for rent and shows the details of 
 
 ### Conceptual preview of this app
 
-[project view](https://github.com/Felbrou/homes-portfolia-angular-app/blob/main/images-project/homes-app-landing-page.png)
+![project view]([https://github.com/Felbrou/homes-portfolia-angular-app/blob/main/images-project/homes-app-landing-page.png](https://github.com/Felbrou/homes-portfolia-angular-app/blob/main/images-project/homes-app-landing-page.png))
 
 
 **I'm adding this project steps on my website repository:**
